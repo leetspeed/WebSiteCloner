@@ -21,5 +21,3 @@ Usage:
 .\WebsiteCloner.ps1 -list .\list.txt
     - File with list of urls to clone
 ```
-
-``````
